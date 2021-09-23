@@ -27,4 +27,4 @@ If you want to add new features to this template:
 
 If you need to contact me:
 
-- **Abraham E. Tavarez** - _Initial work_ - [AbeTavarez](https://www.linkedin.com/in/efrenabrahametavarez/)
+- **Isiah Chillous** - _Initial work_ - [ichillous](https://www.linkedin.com/in/isiah-chillous/)
